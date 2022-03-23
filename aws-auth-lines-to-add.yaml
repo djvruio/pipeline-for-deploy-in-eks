@@ -1,0 +1,4 @@
+- groups:
+  - system:masters
+  rolearn: arn:aws:iam::641164757726:role/KubectlRoleForEKS
+  username: build
